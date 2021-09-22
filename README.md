@@ -1,3 +1,10 @@
+# site is deployed to
+```
+https://bank-green-sample-anant.netlify.app/
+```
+
+# this component/element is built with Vue and Tailwind.css
+
 # bank_green
 
 ## Project setup
